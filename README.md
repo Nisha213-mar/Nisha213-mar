@@ -16,6 +16,14 @@
 - 🔭 I’m currently working on **Data structure**
 
 - 🌱 I’m currently learning **Data structure, Analog and Digital Engineering**
+  
+  📄 Know about my experiences [here](https://www.linkedin.com/in/nidhi-singh04/) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
