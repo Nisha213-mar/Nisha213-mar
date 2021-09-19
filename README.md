@@ -16,6 +16,7 @@
 - 🔭 I’m currently working on **Data structure**
 
 - 🌱 I’m currently learning **Data structure, Analog and Digital Engineering**
+  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Nisha Jha>&theme=<THEME_NAME>" />
   
   📄 Know about my experiences [here](https://www.linkedin.com/in/nisha-jha-b33248206/) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
