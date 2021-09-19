@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data structure, Analog and Digital Engineering**
   
-  📄 Know about my experiences [here](https://www.linkedin.com/in/nidhi-singh04/) 
+  📄 Know about my experiences [here](https://www.linkedin.com/in/nisha-jha-b33248206/) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
