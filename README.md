@@ -8,10 +8,10 @@
 ### <h3 align="left">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚑𝚎𝚛𝚎 👇 :   </h3>
 <p align="left">
   <img align='right' src="https://i.pinimg.com/originals/66/87/45/66874540d2ea5399936f3554f727172b.gif" width="330">
-  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Nishajha828207@gmail.com)](mailto:Nishajha828207@gmail.com)
-  [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Nisha_j)
-  [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](discord.com/users/886670287930785802)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
+  <h3>[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Nishajha828207@gmail.com)](mailto:Nishajha828207@gmail.com)</h3>
+ <h3> [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Nisha_j)</h3>
+  <h3>[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](discord.com/users/886670287930785802)</h3>
+  <h3>[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)</h3>
   
 - 🔭 I’m currently working on **Data structure**
 
