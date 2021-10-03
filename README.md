@@ -45,3 +45,23 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishamar-213&show_icons=true&locale=en&layout=compact" alt="nishamar-213" /></p>
 <h3 align="left"><b>Languages and Tools:</b></h3>
+<h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2>
+
+<br/>
+
+<table>
+
+<td>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhikumari-4&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nidhikumari-4&show_icons=true&locale=en&layout=compact&theme=blue-green" />
+</td>
+
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhikumari-4&theme=blue-green" />
+</p>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nidhikumari-4&theme=react-dark&hide_border=github_dark)
+
+
