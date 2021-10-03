@@ -7,12 +7,16 @@
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"><b>About me</b></h2>
 ### <h3 align="left">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚑𝚎𝚛𝚎 👇 :   </h3>
 <p align="left">
-  <img align='right' src="https://i.pinimg.com/originals/66/87/45/66874540d2ea5399936f3554f727172b.gif" width="330">
-  <h4>[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Nishajha828207@gmail.com)](mailto:Nishajha828207@gmail.com)</4>
- <h4> [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Nisha_j)</h4>
-  <h4>[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](discord.com/users/886670287930785802)</h4>
-  <h4>[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)</h4>
   
+
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarinidhimain@gmail.com)](mailto:Nishajha828207.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhi-singh04/)](https://www.linkedin.com/in/nisha-jha-b33248206/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/home?lang=en)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://telegr.am/index)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/community/posts/360056220432-Login)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/)
+
 - 🔭 I’m currently working on **Data structure**
 
 - 🌱 I’m currently learning **Data structure, Analog and Digital Engineering**
