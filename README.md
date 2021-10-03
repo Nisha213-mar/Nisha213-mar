@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishamar-213" alt="nishamar-213" /></a> </p>
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"><b>About me</b></h2>
-<img align='right' src="https://giphy.com/gifs/shapefruitag-girl-shapefruit-mitarbeiter-E1SYiHkeZ5iNZufA8A/fullscreen" width="300">
+<img align='right' src="https://i.pinimg.com/originals/66/87/45/66874540d2ea5399936f3554f727172b.gif" width="300">
 ### <h3 align="left">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚑𝚎𝚛𝚎 👇 :   </h3>
 <p align="left">
   
