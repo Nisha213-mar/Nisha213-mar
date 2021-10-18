@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishamar-213" alt="nishamar-213" /></a> </p>
 <h2><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" width="70"><b>About me</b></h2>
-<img align='right' src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300">
+<img align='right' src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg?raw=true" width="300">
 ### <h3 align="left">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚑𝚎𝚛𝚎 👇 :   </h3>
 <p align="left">
   
