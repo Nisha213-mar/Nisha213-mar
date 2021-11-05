@@ -16,8 +16,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/home?lang=en)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://telegr.am/index)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/community/posts/360056220432-Login)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/) [!  [![![Twitter](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://twitter.com/NishaJh60593601)
-
+ [![Twitter](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://twitter.com/NishaJh60593601)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/) [!  [!
 - 🔭 I’m currently working on **Data structure**
 
 - 🌱 I’m currently learning **Data structure, Analog and Digital Engineering**
