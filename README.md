@@ -1,7 +1,7 @@
 ## Hi, I am Nisha Jha!! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <h3 align="center"> I am Nisha Jha, currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishamar-213&label=Profile%20views&color=0e75b6&style=flat" alt="nishamar-213" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nisha213-mar&label=Profile%20views&color=0e75b6&style=flat" alt="Nisha213-mar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nisha213-mar" alt="Nisha213-mar" /></a> </p>
 <h2><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" width="70"><b>About me</b></h2>
