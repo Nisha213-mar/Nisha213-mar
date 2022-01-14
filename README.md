@@ -52,10 +52,9 @@
 
 <td>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Nisha213-mar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=synthwave"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nisha213-mar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nisha213-mar&show_icons=true&locale=en&layout=compact&theme=blue-green" />
 </td>
-
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisha213-mar&theme=blue-green" />
